@@ -1,0 +1,1070 @@
+MODEL 1
+REMARK VINA RESULT:    -7.663      0.000      0.000
+REMARK INTER + INTRA:         -14.752
+REMARK INTER:                 -12.367
+REMARK INTRA:                  -2.385
+REMARK UNBOUND:                -2.385
+REMARK  Name = novobiocin_ref.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_3
+REMARK    2  A    between atoms: O1_3  and  C27_40
+REMARK    3  A    between atoms: C2_4  and  C4_9
+REMARK    4  A    between atoms: N2_5  and  C7_15
+REMARK    5  A    between atoms: C3_7  and  O8_18
+REMARK    6  A    between atoms: O3_8  and  C17_30
+REMARK    7  A    between atoms: O5_12  and  C12_25
+REMARK    8  A    between atoms: O5_12  and  C28_41
+REMARK    9  A    between atoms: O6_14  and  C29_42
+REMARK   10  A    between atoms: C8_17  and  O9_20
+REMARK   11  A    between atoms: O8_18  and  C30_43
+REMARK   12  A    between atoms: C13_26  and  C14_27
+REMARK   13  A    between atoms: C16_29  and  C20_33
+REMARK   14  A    between atoms: C20_33  and  C21_34
+REMARK   15  A    between atoms: C22_35  and  C24_37
+REMARK   16  A    between atoms: C22_35  and  C25_38
+REMARK   17  A    between atoms: C23_36  and  C31_44
+REMARK   18  A    between atoms: C26_39  and  C31_44
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  NOV A   1      61.914  -7.325  25.548  0.00  0.00    +0.000 C 
+ATOM      2  C3  NOV A   1      59.757  -5.988  25.449  0.00  0.00    +0.000 A 
+ATOM      3  C4  NOV A   1      60.505  -7.073  25.898  0.00  0.00    +0.000 A 
+ATOM      4  C5  NOV A   1      59.934  -7.928  26.770  0.00  0.00    +0.000 A 
+ATOM      5  C6  NOV A   1      60.264  -9.948  27.925  0.00  0.00    +0.000 A 
+ATOM      6  C7  NOV A   1      58.862  -9.858  28.402  0.00  0.00    +0.000 A 
+ATOM      7  C8  NOV A   1      58.058  -8.852  28.047  0.00  0.00    +0.000 A 
+ATOM      8  C9  NOV A   1      58.590  -7.794  27.170  0.00  0.00    +0.000 A 
+ATOM      9  C10 NOV A   1      57.839  -6.669  26.780  0.00  0.00    +0.000 A 
+ATOM     10  O10 NOV A   1      60.764  -8.991  27.165  0.00  0.00    +0.000 OA
+ATOM     11  C11 NOV A   1      58.440  -5.741  25.921  0.00  0.00    +0.000 A 
+ATOM     12  O11 NOV A   1      60.893 -10.921  28.207  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  13
+ATOM     13  N2  NOV A   1      58.427 -10.851  29.364  0.00  0.00    +0.000 N 
+ATOM     14  O2  NOV A   1      57.978 -11.774  31.281  0.00  0.00    +0.000 OA
+ATOM     15  C13 NOV A   1      58.393 -10.802  30.704  0.00  0.00    +0.000 C 
+ATOM     16  H   NOV A   1      58.105 -11.694  28.972  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C14 NOV A   1      58.853  -9.670  31.502  0.00  0.00    +0.000 A 
+ATOM     18  C15 NOV A   1      60.015  -8.948  31.163  0.00  0.00    +0.000 A 
+ATOM     19  C16 NOV A   1      60.426  -7.914  32.021  0.00  0.00    +0.000 A 
+ATOM     20  C17 NOV A   1      59.667  -7.605  33.147  0.00  0.00    +0.000 A 
+ATOM     21  C18 NOV A   1      58.506  -8.328  33.489  0.00  0.00    +0.000 A 
+ATOM     22  C19 NOV A   1      58.111  -9.381  32.651  0.00  0.00    +0.000 A 
+BRANCH  20  23
+ATOM     23  O3  NOV A   1      60.061  -6.580  33.967  0.00  0.00    +0.000 OA
+ATOM     24  H   NOV A   1      60.882  -6.153  33.822  0.00  0.00    +0.000 HD
+ENDBRANCH  20  23
+BRANCH  19  25
+ATOM     25  C20 NOV A   1      61.624  -7.057  31.699  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C21 NOV A   1      62.259  -7.301  30.343  0.00  0.00    +0.000 C 
+ATOM     27  C22 NOV A   1      63.140  -8.263  30.003  0.00  0.00    +0.000 C 
+ATOM     28  C24 NOV A   1      63.680  -8.405  28.595  0.00  0.00    +0.000 C 
+ATOM     29  C25 NOV A   1      63.688  -9.275  30.959  0.00  0.00    +0.000 C 
+ENDBRANCH  25  26
+ENDBRANCH  19  25
+ENDBRANCH  15  17
+ENDBRANCH   6  13
+BRANCH   7  30
+ATOM     30  O9  NOV A   1      56.784  -8.809  28.483  0.00  0.00    +0.000 OA
+ATOM     31  H   NOV A   1      56.286  -8.020  28.398  0.00  0.00    +0.000 HD
+ENDBRANCH   7  30
+BRANCH   2  32
+ATOM     32  O8  NOV A   1      60.500  -5.167  24.618  0.00  0.00    +0.000 OA
+BRANCH  32  39
+ATOM     33  O7  NOV A   1      60.840  -3.243  23.372  0.00  0.00    +0.000 OA
+ATOM     34  C23 NOV A   1      62.814  -4.621  22.938  0.00  0.00    +0.000 C 
+ATOM     35  C26 NOV A   1      62.627  -2.118  22.377  0.00  0.00    +0.000 C 
+ATOM     36  C27 NOV A   1      62.832  -2.884  24.781  0.00  0.00    +0.000 C 
+ATOM     37  C28 NOV A   1      62.167  -3.584  25.960  0.00  0.00    +0.000 C 
+ATOM     38  C29 NOV A   1      60.678  -3.297  25.844  0.00  0.00    +0.000 C 
+ATOM     39  C30 NOV A   1      60.164  -3.807  24.504  0.00  0.00    +0.000 C 
+ATOM     40  C31 NOV A   1      62.260  -3.247  23.382  0.00  0.00    +0.000 C 
+BRANCH  36  42
+ATOM     41  C1  NOV A   1      64.909  -1.778  25.152  0.00  0.00    +0.000 C 
+ATOM     42  O1  NOV A   1      64.256  -3.024  24.869  0.00  0.00    +0.000 OA
+ENDBRANCH  36  42
+BRANCH  38  43
+ATOM     43  O6  NOV A   1      60.460  -1.925  26.139  0.00  0.00    +0.000 OA
+ATOM     44  H   NOV A   1      59.716  -1.841  26.756  0.00  0.00    +0.000 HD
+ENDBRANCH  38  43
+BRANCH  37  45
+ATOM     45  O5  NOV A   1      62.589  -2.954  27.205  0.00  0.00    +0.000 OA
+BRANCH  45  48
+ATOM     46  N1  NOV A   1      63.054  -4.981  27.883  0.00  0.00    +0.000 N 
+ATOM     47  O4  NOV A   1      63.106  -3.309  29.316  0.00  0.00    +0.000 OA
+ATOM     48  C12 NOV A   1      62.942  -3.719  28.205  0.00  0.00    +0.000 C 
+ATOM     49  H   NOV A   1      63.315  -5.641  28.565  0.00  0.00    +0.000 HD
+ATOM     50  H   NOV A   1      62.878  -5.270  26.958  0.00  0.00    +0.000 HD
+ENDBRANCH  45  48
+ENDBRANCH  37  45
+ENDBRANCH  32  39
+ENDBRANCH   2  32
+TORSDOF 12
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -7.577      5.509      9.390
+REMARK INTER + INTRA:         -14.613
+REMARK INTER:                 -12.459
+REMARK INTRA:                  -2.154
+REMARK UNBOUND:                -2.385
+REMARK  Name = novobiocin_ref.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_3
+REMARK    2  A    between atoms: O1_3  and  C27_40
+REMARK    3  A    between atoms: C2_4  and  C4_9
+REMARK    4  A    between atoms: N2_5  and  C7_15
+REMARK    5  A    between atoms: C3_7  and  O8_18
+REMARK    6  A    between atoms: O3_8  and  C17_30
+REMARK    7  A    between atoms: O5_12  and  C12_25
+REMARK    8  A    between atoms: O5_12  and  C28_41
+REMARK    9  A    between atoms: O6_14  and  C29_42
+REMARK   10  A    between atoms: C8_17  and  O9_20
+REMARK   11  A    between atoms: O8_18  and  C30_43
+REMARK   12  A    between atoms: C13_26  and  C14_27
+REMARK   13  A    between atoms: C16_29  and  C20_33
+REMARK   14  A    between atoms: C20_33  and  C21_34
+REMARK   15  A    between atoms: C22_35  and  C24_37
+REMARK   16  A    between atoms: C22_35  and  C25_38
+REMARK   17  A    between atoms: C23_36  and  C31_44
+REMARK   18  A    between atoms: C26_39  and  C31_44
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  NOV A   1      59.531  -7.186  37.505  0.00  0.00    +0.000 C 
+ATOM      2  C3  NOV A   1      59.451  -5.881  35.328  0.00  0.00    +0.000 A 
+ATOM      3  C4  NOV A   1      59.501  -7.079  36.035  0.00  0.00    +0.000 A 
+ATOM      4  C5  NOV A   1      59.453  -8.235  35.343  0.00  0.00    +0.000 A 
+ATOM      5  C6  NOV A   1      59.588 -10.571  35.557  0.00  0.00    +0.000 A 
+ATOM      6  C7  NOV A   1      59.548 -10.669  34.077  0.00  0.00    +0.000 A 
+ATOM      7  C8  NOV A   1      59.483  -9.585  33.299  0.00  0.00    +0.000 A 
+ATOM      8  C9  NOV A   1      59.432  -8.257  33.935  0.00  0.00    +0.000 A 
+ATOM      9  C10 NOV A   1      59.314  -7.059  33.204  0.00  0.00    +0.000 A 
+ATOM     10  O10 NOV A   1      59.512  -9.389  36.141  0.00  0.00    +0.000 OA
+ATOM     11  C11 NOV A   1      59.303  -5.852  33.915  0.00  0.00    +0.000 A 
+ATOM     12  O11 NOV A   1      59.740 -11.574  36.183  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  13
+ATOM     13  N2  NOV A   1      59.469 -11.998  33.506  0.00  0.00    +0.000 N 
+ATOM     14  O2  NOV A   1      60.075 -13.815  32.475  0.00  0.00    +0.000 OA
+ATOM     15  C13 NOV A   1      60.396 -12.718  32.854  0.00  0.00    +0.000 C 
+ATOM     16  H   NOV A   1      58.598 -12.443  33.612  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C14 NOV A   1      61.743 -12.248  32.548  0.00  0.00    +0.000 A 
+ATOM     18  C15 NOV A   1      61.983 -11.292  31.541  0.00  0.00    +0.000 A 
+ATOM     19  C16 NOV A   1      63.316 -10.943  31.264  0.00  0.00    +0.000 A 
+ATOM     20  C17 NOV A   1      64.349 -11.510  32.006  0.00  0.00    +0.000 A 
+ATOM     21  C18 NOV A   1      64.110 -12.468  33.012  0.00  0.00    +0.000 A 
+ATOM     22  C19 NOV A   1      62.783 -12.843  33.268  0.00  0.00    +0.000 A 
+BRANCH  20  23
+ATOM     23  O3  NOV A   1      65.645 -11.148  31.746  0.00  0.00    +0.000 OA
+ATOM     24  H   NOV A   1      66.347 -11.547  32.222  0.00  0.00    +0.000 HD
+ENDBRANCH  20  23
+BRANCH  19  25
+ATOM     25  C20 NOV A   1      63.654  -9.887  30.244  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C21 NOV A   1      63.254  -8.470  30.609  0.00  0.00    +0.000 C 
+ATOM     27  C22 NOV A   1      62.161  -7.789  30.208  0.00  0.00    +0.000 C 
+ATOM     28  C24 NOV A   1      61.872  -6.376  30.672  0.00  0.00    +0.000 C 
+ATOM     29  C25 NOV A   1      61.134  -8.331  29.265  0.00  0.00    +0.000 C 
+ENDBRANCH  25  26
+ENDBRANCH  19  25
+ENDBRANCH  15  17
+ENDBRANCH   6  13
+BRANCH   7  30
+ATOM     30  O9  NOV A   1      59.466  -9.708  31.957  0.00  0.00    +0.000 OA
+ATOM     31  H   NOV A   1      59.643  -8.963  31.417  0.00  0.00    +0.000 HD
+ENDBRANCH   7  30
+BRANCH   2  32
+ATOM     32  O8  NOV A   1      59.439  -4.788  36.177  0.00  0.00    +0.000 OA
+BRANCH  32  39
+ATOM     33  O7  NOV A   1      58.808  -2.660  35.513  0.00  0.00    +0.000 OA
+ATOM     34  C23 NOV A   1      61.231  -2.523  35.814  0.00  0.00    +0.000 C 
+ATOM     35  C26 NOV A   1      59.668  -0.492  35.602  0.00  0.00    +0.000 C 
+ATOM     36  C27 NOV A   1      59.659  -1.906  37.702  0.00  0.00    +0.000 C 
+ATOM     37  C28 NOV A   1      59.301  -3.242  38.341  0.00  0.00    +0.000 C 
+ATOM     38  C29 NOV A   1      58.064  -3.747  37.613  0.00  0.00    +0.000 C 
+ATOM     39  C30 NOV A   1      58.368  -3.879  36.126  0.00  0.00    +0.000 C 
+ATOM     40  C31 NOV A   1      59.843  -1.933  36.159  0.00  0.00    +0.000 C 
+BRANCH  36  42
+ATOM     41  C1  NOV A   1      60.336  -0.378  39.400  0.00  0.00    +0.000 C 
+ATOM     42  O1  NOV A   1      60.763  -1.312  38.397  0.00  0.00    +0.000 OA
+ENDBRANCH  36  42
+BRANCH  38  43
+ATOM     43  O6  NOV A   1      56.963  -2.927  37.976  0.00  0.00    +0.000 OA
+ATOM     44  H   NOV A   1      56.285  -2.970  37.283  0.00  0.00    +0.000 HD
+ENDBRANCH  38  43
+BRANCH  37  45
+ATOM     45  O5  NOV A   1      58.881  -3.028  39.719  0.00  0.00    +0.000 OA
+BRANCH  45  48
+ATOM     46  N1  NOV A   1      57.936  -4.023  41.423  0.00  0.00    +0.000 N 
+ATOM     47  O4  NOV A   1      59.754  -4.882  40.525  0.00  0.00    +0.000 OA
+ATOM     48  C12 NOV A   1      58.905  -4.041  40.545  0.00  0.00    +0.000 C 
+ATOM     49  H   NOV A   1      57.864  -4.741  42.092  0.00  0.00    +0.000 HD
+ATOM     50  H   NOV A   1      57.278  -3.290  41.414  0.00  0.00    +0.000 HD
+ENDBRANCH  45  48
+ENDBRANCH  37  45
+ENDBRANCH  32  39
+ENDBRANCH   2  32
+TORSDOF 12
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -7.322      5.928      8.770
+REMARK INTER + INTRA:         -14.201
+REMARK INTER:                 -12.653
+REMARK INTRA:                  -1.548
+REMARK UNBOUND:                -2.385
+REMARK  Name = novobiocin_ref.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_3
+REMARK    2  A    between atoms: O1_3  and  C27_40
+REMARK    3  A    between atoms: C2_4  and  C4_9
+REMARK    4  A    between atoms: N2_5  and  C7_15
+REMARK    5  A    between atoms: C3_7  and  O8_18
+REMARK    6  A    between atoms: O3_8  and  C17_30
+REMARK    7  A    between atoms: O5_12  and  C12_25
+REMARK    8  A    between atoms: O5_12  and  C28_41
+REMARK    9  A    between atoms: O6_14  and  C29_42
+REMARK   10  A    between atoms: C8_17  and  O9_20
+REMARK   11  A    between atoms: O8_18  and  C30_43
+REMARK   12  A    between atoms: C13_26  and  C14_27
+REMARK   13  A    between atoms: C16_29  and  C20_33
+REMARK   14  A    between atoms: C20_33  and  C21_34
+REMARK   15  A    between atoms: C22_35  and  C24_37
+REMARK   16  A    between atoms: C22_35  and  C25_38
+REMARK   17  A    between atoms: C23_36  and  C31_44
+REMARK   18  A    between atoms: C26_39  and  C31_44
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  NOV A   1      63.736 -12.997  32.831  0.00  0.00    +0.000 C 
+ATOM      2  C3  NOV A   1      62.707 -13.352  30.536  0.00  0.00    +0.000 A 
+ATOM      3  C4  NOV A   1      62.637 -12.905  31.853  0.00  0.00    +0.000 A 
+ATOM      4  C5  NOV A   1      61.514 -12.279  32.258  0.00  0.00    +0.000 A 
+ATOM      5  C6  NOV A   1      60.443 -11.348  34.130  0.00  0.00    +0.000 A 
+ATOM      6  C7  NOV A   1      59.235 -11.151  33.292  0.00  0.00    +0.000 A 
+ATOM      7  C8  NOV A   1      59.195 -11.528  32.011  0.00  0.00    +0.000 A 
+ATOM      8  C9  NOV A   1      60.395 -12.140  31.414  0.00  0.00    +0.000 A 
+ATOM      9  C10 NOV A   1      60.470 -12.526  30.061  0.00  0.00    +0.000 A 
+ATOM     10  O10 NOV A   1      61.535 -11.866  33.601  0.00  0.00    +0.000 OA
+ATOM     11  C11 NOV A   1      61.653 -13.123  29.611  0.00  0.00    +0.000 A 
+ATOM     12  O11 NOV A   1      60.374 -11.073  35.289  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  13
+ATOM     13  N2  NOV A   1      58.129 -10.429  33.887  0.00  0.00    +0.000 N 
+ATOM     14  O2  NOV A   1      56.936  -8.762  34.615  0.00  0.00    +0.000 OA
+ATOM     15  C13 NOV A   1      57.966  -9.114  34.098  0.00  0.00    +0.000 C 
+ATOM     16  H   NOV A   1      57.377 -10.992  34.183  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C14 NOV A   1      58.959  -8.095  33.775  0.00  0.00    +0.000 A 
+ATOM     18  C15 NOV A   1      59.202  -7.001  34.629  0.00  0.00    +0.000 A 
+ATOM     19  C16 NOV A   1      60.129  -6.029  34.213  0.00  0.00    +0.000 A 
+ATOM     20  C17 NOV A   1      60.803  -6.187  33.004  0.00  0.00    +0.000 A 
+ATOM     21  C18 NOV A   1      60.559  -7.281  32.148  0.00  0.00    +0.000 A 
+ATOM     22  C19 NOV A   1      59.611  -8.235  32.546  0.00  0.00    +0.000 A 
+BRANCH  20  23
+ATOM     23  O3  NOV A   1      61.722  -5.248  32.615  0.00  0.00    +0.000 OA
+ATOM     24  H   NOV A   1      62.629  -5.476  32.559  0.00  0.00    +0.000 HD
+ENDBRANCH  20  23
+BRANCH  19  25
+ATOM     25  C20 NOV A   1      60.488  -4.860  35.093  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C21 NOV A   1      59.956  -4.919  36.512  0.00  0.00    +0.000 C 
+ATOM     27  C22 NOV A   1      59.553  -3.894  37.289  0.00  0.00    +0.000 C 
+ATOM     28  C24 NOV A   1      59.018  -4.101  38.690  0.00  0.00    +0.000 C 
+ATOM     29  C25 NOV A   1      59.599  -2.457  36.872  0.00  0.00    +0.000 C 
+ENDBRANCH  25  26
+ENDBRANCH  19  25
+ENDBRANCH  15  17
+ENDBRANCH   6  13
+BRANCH   7  30
+ATOM     30  O9  NOV A   1      58.076 -11.352  31.281  0.00  0.00    +0.000 OA
+ATOM     31  H   NOV A   1      57.700 -12.074  30.819  0.00  0.00    +0.000 HD
+ENDBRANCH   7  30
+BRANCH   2  32
+ATOM     32  O8  NOV A   1      63.943 -13.908  30.252  0.00  0.00    +0.000 OA
+BRANCH  32  39
+ATOM     33  O7  NOV A   1      65.208 -15.298  28.896  0.00  0.00    +0.000 OA
+ATOM     34  C23 NOV A   1      66.339 -15.348  31.064  0.00  0.00    +0.000 C 
+ATOM     35  C26 NOV A   1      67.367 -16.184  28.859  0.00  0.00    +0.000 C 
+ATOM     36  C27 NOV A   1      67.054 -13.706  29.273  0.00  0.00    +0.000 C 
+ATOM     37  C28 NOV A   1      66.074 -12.548  29.416  0.00  0.00    +0.000 C 
+ATOM     38  C29 NOV A   1      64.897 -12.870  28.507  0.00  0.00    +0.000 C 
+ATOM     39  C30 NOV A   1      64.284 -14.201  28.920  0.00  0.00    +0.000 C 
+ATOM     40  C31 NOV A   1      66.461 -15.118  29.539  0.00  0.00    +0.000 C 
+BRANCH  36  42
+ATOM     41  C1  NOV A   1      69.418 -13.421  29.204  0.00  0.00    +0.000 C 
+ATOM     42  O1  NOV A   1      68.243 -13.436  30.026  0.00  0.00    +0.000 OA
+ENDBRANCH  36  42
+BRANCH  38  43
+ATOM     43  O6  NOV A   1      65.324 -12.747  27.157  0.00  0.00    +0.000 OA
+ATOM     44  H   NOV A   1      66.218 -12.372  27.134  0.00  0.00    +0.000 HD
+ENDBRANCH  38  43
+BRANCH  37  45
+ATOM     45  O5  NOV A   1      66.667 -11.335  28.869  0.00  0.00    +0.000 OA
+BRANCH  45  48
+ATOM     46  N1  NOV A   1      67.390 -10.286  30.647  0.00  0.00    +0.000 N 
+ATOM     47  O4  NOV A   1      65.934  -9.307  29.316  0.00  0.00    +0.000 OA
+ATOM     48  C12 NOV A   1      66.628 -10.242  29.585  0.00  0.00    +0.000 C 
+ATOM     49  H   NOV A   1      67.432  -9.513  31.255  0.00  0.00    +0.000 HD
+ATOM     50  H   NOV A   1      67.921 -11.093  30.839  0.00  0.00    +0.000 HD
+ENDBRANCH  45  48
+ENDBRANCH  37  45
+ENDBRANCH  32  39
+ENDBRANCH   2  32
+TORSDOF 12
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -7.217      2.355      3.960
+REMARK INTER + INTRA:         -14.032
+REMARK INTER:                 -12.038
+REMARK INTRA:                  -1.993
+REMARK UNBOUND:                -2.385
+REMARK  Name = novobiocin_ref.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_3
+REMARK    2  A    between atoms: O1_3  and  C27_40
+REMARK    3  A    between atoms: C2_4  and  C4_9
+REMARK    4  A    between atoms: N2_5  and  C7_15
+REMARK    5  A    between atoms: C3_7  and  O8_18
+REMARK    6  A    between atoms: O3_8  and  C17_30
+REMARK    7  A    between atoms: O5_12  and  C12_25
+REMARK    8  A    between atoms: O5_12  and  C28_41
+REMARK    9  A    between atoms: O6_14  and  C29_42
+REMARK   10  A    between atoms: C8_17  and  O9_20
+REMARK   11  A    between atoms: O8_18  and  C30_43
+REMARK   12  A    between atoms: C13_26  and  C14_27
+REMARK   13  A    between atoms: C16_29  and  C20_33
+REMARK   14  A    between atoms: C20_33  and  C21_34
+REMARK   15  A    between atoms: C22_35  and  C24_37
+REMARK   16  A    between atoms: C22_35  and  C25_38
+REMARK   17  A    between atoms: C23_36  and  C31_44
+REMARK   18  A    between atoms: C26_39  and  C31_44
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  NOV A   1      62.234  -8.219  29.275  0.00  0.00    +0.000 C 
+ATOM      2  C3  NOV A   1      59.864  -8.352  28.372  0.00  0.00    +0.000 A 
+ATOM      3  C4  NOV A   1      60.854  -8.736  29.273  0.00  0.00    +0.000 A 
+ATOM      4  C5  NOV A   1      60.524  -9.591  30.261  0.00  0.00    +0.000 A 
+ATOM      5  C6  NOV A   1      61.400 -10.839  32.049  0.00  0.00    +0.000 A 
+ATOM      6  C7  NOV A   1      60.065 -11.461  32.218  0.00  0.00    +0.000 A 
+ATOM      7  C8  NOV A   1      59.037 -11.156  31.421  0.00  0.00    +0.000 A 
+ATOM      8  C9  NOV A   1      59.239 -10.158  30.355  0.00  0.00    +0.000 A 
+ATOM      9  C10 NOV A   1      58.207  -9.733  29.495  0.00  0.00    +0.000 A 
+ATOM     10  O10 NOV A   1      61.587  -9.921  31.119  0.00  0.00    +0.000 OA
+ATOM     11  C11 NOV A   1      58.521  -8.800  28.500  0.00  0.00    +0.000 A 
+ATOM     12  O11 NOV A   1      62.293 -11.228  32.737  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  13
+ATOM     13  N2  NOV A   1      59.883 -12.336  33.359  0.00  0.00    +0.000 N 
+ATOM     14  O2  NOV A   1      59.471 -12.971  35.398  0.00  0.00    +0.000 OA
+ATOM     15  C13 NOV A   1      59.566 -12.047  34.630  0.00  0.00    +0.000 C 
+ATOM     16  H   NOV A   1      60.012 -13.293  33.171  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C14 NOV A   1      59.363 -10.697  35.147  0.00  0.00    +0.000 A 
+ATOM     18  C15 NOV A   1      59.196  -9.593  34.287  0.00  0.00    +0.000 A 
+ATOM     19  C16 NOV A   1      59.072  -8.318  34.864  0.00  0.00    +0.000 A 
+ATOM     20  C17 NOV A   1      59.079  -8.181  36.250  0.00  0.00    +0.000 A 
+ATOM     21  C18 NOV A   1      59.249  -9.284  37.110  0.00  0.00    +0.000 A 
+ATOM     22  C19 NOV A   1      59.404 -10.554  36.536  0.00  0.00    +0.000 A 
+BRANCH  20  23
+ATOM     23  O3  NOV A   1      58.935  -6.937  36.806  0.00  0.00    +0.000 OA
+ATOM     24  H   NOV A   1      59.359  -6.734  37.617  0.00  0.00    +0.000 HD
+ENDBRANCH  20  23
+BRANCH  19  25
+ATOM     25  C20 NOV A   1      58.832  -7.094  34.018  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C21 NOV A   1      59.985  -6.678  33.124  0.00  0.00    +0.000 C 
+ATOM     27  C22 NOV A   1      60.813  -5.625  33.277  0.00  0.00    +0.000 C 
+ATOM     28  C24 NOV A   1      61.945  -5.338  32.313  0.00  0.00    +0.000 C 
+ATOM     29  C25 NOV A   1      60.703  -4.626  34.386  0.00  0.00    +0.000 C 
+ENDBRANCH  25  26
+ENDBRANCH  19  25
+ENDBRANCH  15  17
+ENDBRANCH   6  13
+BRANCH   7  30
+ATOM     30  O9  NOV A   1      57.840 -11.752  31.589  0.00  0.00    +0.000 OA
+ATOM     31  H   NOV A   1      57.619 -12.130  32.417  0.00  0.00    +0.000 HD
+ENDBRANCH   7  30
+BRANCH   2  32
+ATOM     32  O8  NOV A   1      60.336  -7.422  27.462  0.00  0.00    +0.000 OA
+BRANCH  32  39
+ATOM     33  O7  NOV A   1      59.730  -7.596  25.233  0.00  0.00    +0.000 OA
+ATOM     34  C23 NOV A   1      62.022  -8.445  25.320  0.00  0.00    +0.000 C 
+ATOM     35  C26 NOV A   1      60.787  -7.792  23.161  0.00  0.00    +0.000 C 
+ATOM     36  C27 NOV A   1      61.566  -6.012  24.783  0.00  0.00    +0.000 C 
+ATOM     37  C28 NOV A   1      61.382  -5.357  26.147  0.00  0.00    +0.000 C 
+ATOM     38  C29 NOV A   1      59.899  -5.457  26.472  0.00  0.00    +0.000 C 
+ATOM     39  C30 NOV A   1      59.476  -6.919  26.471  0.00  0.00    +0.000 C 
+ATOM     40  C31 NOV A   1      61.023  -7.463  24.662  0.00  0.00    +0.000 C 
+BRANCH  36  42
+ATOM     41  C1  NOV A   1      63.041  -5.129  23.134  0.00  0.00    +0.000 C 
+ATOM     42  O1  NOV A   1      62.927  -5.874  24.354  0.00  0.00    +0.000 OA
+ENDBRANCH  36  42
+BRANCH  38  43
+ATOM     43  O6  NOV A   1      59.190  -4.578  25.611  0.00  0.00    +0.000 OA
+ATOM     44  H   NOV A   1      59.617  -3.707  25.613  0.00  0.00    +0.000 HD
+ENDBRANCH  38  43
+BRANCH  37  45
+ATOM     45  O5  NOV A   1      61.663  -3.930  26.046  0.00  0.00    +0.000 OA
+BRANCH  45  48
+ATOM     46  N1  NOV A   1      63.701  -3.137  26.045  0.00  0.00    +0.000 N 
+ATOM     47  O4  NOV A   1      62.593  -3.304  27.941  0.00  0.00    +0.000 OA
+ATOM     48  C12 NOV A   1      62.644  -3.435  26.754  0.00  0.00    +0.000 C 
+ATOM     49  H   NOV A   1      64.497  -2.757  26.483  0.00  0.00    +0.000 HD
+ATOM     50  H   NOV A   1      63.702  -3.292  25.073  0.00  0.00    +0.000 HD
+ENDBRANCH  45  48
+ENDBRANCH  37  45
+ENDBRANCH  32  39
+ENDBRANCH   2  32
+TORSDOF 12
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -7.001      2.731      8.961
+REMARK INTER + INTRA:         -13.683
+REMARK INTER:                 -10.999
+REMARK INTRA:                  -2.685
+REMARK UNBOUND:                -2.385
+REMARK  Name = novobiocin_ref.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_3
+REMARK    2  A    between atoms: O1_3  and  C27_40
+REMARK    3  A    between atoms: C2_4  and  C4_9
+REMARK    4  A    between atoms: N2_5  and  C7_15
+REMARK    5  A    between atoms: C3_7  and  O8_18
+REMARK    6  A    between atoms: O3_8  and  C17_30
+REMARK    7  A    between atoms: O5_12  and  C12_25
+REMARK    8  A    between atoms: O5_12  and  C28_41
+REMARK    9  A    between atoms: O6_14  and  C29_42
+REMARK   10  A    between atoms: C8_17  and  O9_20
+REMARK   11  A    between atoms: O8_18  and  C30_43
+REMARK   12  A    between atoms: C13_26  and  C14_27
+REMARK   13  A    between atoms: C16_29  and  C20_33
+REMARK   14  A    between atoms: C20_33  and  C21_34
+REMARK   15  A    between atoms: C22_35  and  C24_37
+REMARK   16  A    between atoms: C22_35  and  C25_38
+REMARK   17  A    between atoms: C23_36  and  C31_44
+REMARK   18  A    between atoms: C26_39  and  C31_44
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  NOV A   1      58.364  -9.331  30.447  0.00  0.00    +0.000 C 
+ATOM      2  C3  NOV A   1      60.268 -10.808  29.645  0.00  0.00    +0.000 A 
+ATOM      3  C4  NOV A   1      59.345  -9.785  29.445  0.00  0.00    +0.000 A 
+ATOM      4  C5  NOV A   1      59.382  -9.107  28.281  0.00  0.00    +0.000 A 
+ATOM      5  C6  NOV A   1      58.288  -7.449  27.026  0.00  0.00    +0.000 A 
+ATOM      6  C7  NOV A   1      59.206  -7.751  25.900  0.00  0.00    +0.000 A 
+ATOM      7  C8  NOV A   1      60.141  -8.701  25.987  0.00  0.00    +0.000 A 
+ATOM      8  C9  NOV A   1      60.270  -9.456  27.245  0.00  0.00    +0.000 A 
+ATOM      9  C10 NOV A   1      61.254 -10.443  27.452  0.00  0.00    +0.000 A 
+ATOM     10  O10 NOV A   1      58.413  -8.096  28.170  0.00  0.00    +0.000 OA
+ATOM     11  C11 NOV A   1      61.265 -11.115  28.680  0.00  0.00    +0.000 A 
+ATOM     12  O11 NOV A   1      57.419  -6.653  26.845  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  13
+ATOM     13  N2  NOV A   1      59.124  -6.895  24.734  0.00  0.00    +0.000 N 
+ATOM     14  O2  NOV A   1      59.504  -5.215  23.405  0.00  0.00    +0.000 OA
+ATOM     15  C13 NOV A   1      59.744  -5.736  24.465  0.00  0.00    +0.000 C 
+ATOM     16  H   NOV A   1      58.519  -7.215  24.027  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C14 NOV A   1      60.656  -5.054  25.378  0.00  0.00    +0.000 A 
+ATOM     18  C15 NOV A   1      61.282  -5.732  26.443  0.00  0.00    +0.000 A 
+ATOM     19  C16 NOV A   1      62.094  -4.988  27.315  0.00  0.00    +0.000 A 
+ATOM     20  C17 NOV A   1      62.289  -3.627  27.089  0.00  0.00    +0.000 A 
+ATOM     21  C18 NOV A   1      61.661  -2.948  26.026  0.00  0.00    +0.000 A 
+ATOM     22  C19 NOV A   1      60.825  -3.682  25.172  0.00  0.00    +0.000 A 
+BRANCH  20  23
+ATOM     23  O3  NOV A   1      63.101  -2.912  27.931  0.00  0.00    +0.000 OA
+ATOM     24  H   NOV A   1      63.954  -2.650  27.647  0.00  0.00    +0.000 HD
+ENDBRANCH  20  23
+BRANCH  19  25
+ATOM     25  C20 NOV A   1      62.845  -5.648  28.443  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C21 NOV A   1      62.007  -6.052  29.641  0.00  0.00    +0.000 C 
+ATOM     27  C22 NOV A   1      62.096  -7.183  30.369  0.00  0.00    +0.000 C 
+ATOM     28  C24 NOV A   1      61.203  -7.449  31.563  0.00  0.00    +0.000 C 
+ATOM     29  C25 NOV A   1      63.056  -8.294  30.081  0.00  0.00    +0.000 C 
+ENDBRANCH  25  26
+ENDBRANCH  19  25
+ENDBRANCH  15  17
+ENDBRANCH   6  13
+BRANCH   7  30
+ATOM     30  O9  NOV A   1      60.947  -8.963  24.939  0.00  0.00    +0.000 OA
+ATOM     31  H   NOV A   1      60.686  -9.587  24.292  0.00  0.00    +0.000 HD
+ENDBRANCH   7  30
+BRANCH   2  32
+ATOM     32  O8  NOV A   1      60.150 -11.361  30.908  0.00  0.00    +0.000 OA
+BRANCH  32  39
+ATOM     33  O7  NOV A   1      60.776 -13.512  31.503  0.00  0.00    +0.000 OA
+ATOM     34  C23 NOV A   1      58.333 -13.518  31.631  0.00  0.00    +0.000 C 
+ATOM     35  C26 NOV A   1      59.854 -15.332  32.637  0.00  0.00    +0.000 C 
+ATOM     36  C27 NOV A   1      59.732 -13.031  33.686  0.00  0.00    +0.000 C 
+ATOM     37  C28 NOV A   1      60.073 -11.551  33.563  0.00  0.00    +0.000 C 
+ATOM     38  C29 NOV A   1      61.377 -11.476  32.783  0.00  0.00    +0.000 C 
+ATOM     39  C30 NOV A   1      61.197 -12.143  31.426  0.00  0.00    +0.000 C 
+ATOM     40  C31 NOV A   1      59.673 -13.815  32.345  0.00  0.00    +0.000 C 
+BRANCH  36  42
+ATOM     41  C1  NOV A   1      58.852 -13.823  35.753  0.00  0.00    +0.000 C 
+ATOM     42  O1  NOV A   1      58.561 -13.197  34.496  0.00  0.00    +0.000 OA
+ENDBRANCH  36  42
+BRANCH  38  43
+ATOM     43  O6  NOV A   1      62.424 -11.966  33.609  0.00  0.00    +0.000 OA
+ATOM     44  H   NOV A   1      62.746 -11.251  34.180  0.00  0.00    +0.000 HD
+ENDBRANCH  38  43
+BRANCH  37  45
+ATOM     45  O5  NOV A   1      60.376 -11.008  34.881  0.00  0.00    +0.000 OA
+BRANCH  45  48
+ATOM     46  N1  NOV A   1      58.448  -9.981  34.775  0.00  0.00    +0.000 N 
+ATOM     47  O4  NOV A   1      59.976  -9.294  36.204  0.00  0.00    +0.000 OA
+ATOM     48  C12 NOV A   1      59.619 -10.053  35.353  0.00  0.00    +0.000 C 
+ATOM     49  H   NOV A   1      57.801  -9.294  35.057  0.00  0.00    +0.000 HD
+ATOM     50  H   NOV A   1      58.214 -10.613  34.057  0.00  0.00    +0.000 HD
+ENDBRANCH  45  48
+ENDBRANCH  37  45
+ENDBRANCH  32  39
+ENDBRANCH   2  32
+TORSDOF 12
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -6.999      5.033      8.268
+REMARK INTER + INTRA:         -13.680
+REMARK INTER:                 -10.797
+REMARK INTRA:                  -2.882
+REMARK UNBOUND:                -2.385
+REMARK  Name = novobiocin_ref.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_3
+REMARK    2  A    between atoms: O1_3  and  C27_40
+REMARK    3  A    between atoms: C2_4  and  C4_9
+REMARK    4  A    between atoms: N2_5  and  C7_15
+REMARK    5  A    between atoms: C3_7  and  O8_18
+REMARK    6  A    between atoms: O3_8  and  C17_30
+REMARK    7  A    between atoms: O5_12  and  C12_25
+REMARK    8  A    between atoms: O5_12  and  C28_41
+REMARK    9  A    between atoms: O6_14  and  C29_42
+REMARK   10  A    between atoms: C8_17  and  O9_20
+REMARK   11  A    between atoms: O8_18  and  C30_43
+REMARK   12  A    between atoms: C13_26  and  C14_27
+REMARK   13  A    between atoms: C16_29  and  C20_33
+REMARK   14  A    between atoms: C20_33  and  C21_34
+REMARK   15  A    between atoms: C22_35  and  C24_37
+REMARK   16  A    between atoms: C22_35  and  C25_38
+REMARK   17  A    between atoms: C23_36  and  C31_44
+REMARK   18  A    between atoms: C26_39  and  C31_44
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  NOV A   1      63.729 -12.971  32.625  0.00  0.00    +0.000 C 
+ATOM      2  C3  NOV A   1      62.484 -13.656  30.520  0.00  0.00    +0.000 A 
+ATOM      3  C4  NOV A   1      62.531 -13.045  31.771  0.00  0.00    +0.000 A 
+ATOM      4  C5  NOV A   1      61.427 -12.414  32.217  0.00  0.00    +0.000 A 
+ATOM      5  C6  NOV A   1      60.513 -11.289  34.066  0.00  0.00    +0.000 A 
+ATOM      6  C7  NOV A   1      59.215 -11.247  33.350  0.00  0.00    +0.000 A 
+ATOM      7  C8  NOV A   1      59.059 -11.787  32.137  0.00  0.00    +0.000 A 
+ATOM      8  C9  NOV A   1      60.219 -12.427  31.492  0.00  0.00    +0.000 A 
+ATOM      9  C10 NOV A   1      60.170 -12.981  30.198  0.00  0.00    +0.000 A 
+ATOM     10  O10 NOV A   1      61.568 -11.831  33.487  0.00  0.00    +0.000 OA
+ATOM     11  C11 NOV A   1      61.328 -13.588  29.697  0.00  0.00    +0.000 A 
+ATOM     12  O11 NOV A   1      60.553 -10.869  35.182  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  13
+ATOM     13  N2  NOV A   1      58.143 -10.495  33.969  0.00  0.00    +0.000 N 
+ATOM     14  O2  NOV A   1      56.974  -8.791  34.650  0.00  0.00    +0.000 OA
+ATOM     15  C13 NOV A   1      57.967  -9.169  34.083  0.00  0.00    +0.000 C 
+ATOM     16  H   NOV A   1      57.430 -11.043  34.369  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C14 NOV A   1      58.910  -8.165  33.599  0.00  0.00    +0.000 A 
+ATOM     18  C15 NOV A   1      59.645  -8.352  32.412  0.00  0.00    +0.000 A 
+ATOM     19  C16 NOV A   1      60.580  -7.367  32.050  0.00  0.00    +0.000 A 
+ATOM     20  C17 NOV A   1      60.728  -6.230  32.840  0.00  0.00    +0.000 A 
+ATOM     21  C18 NOV A   1      59.994  -6.043  34.029  0.00  0.00    +0.000 A 
+ATOM     22  C19 NOV A   1      59.083  -7.039  34.409  0.00  0.00    +0.000 A 
+BRANCH  20  23
+ATOM     23  O3  NOV A   1      61.625  -5.262  32.470  0.00  0.00    +0.000 OA
+ATOM     24  H   NOV A   1      61.320  -4.462  32.089  0.00  0.00    +0.000 HD
+ENDBRANCH  20  23
+BRANCH  19  25
+ATOM     25  C20 NOV A   1      61.364  -7.463  30.767  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C21 NOV A   1      60.676  -8.196  29.631  0.00  0.00    +0.000 C 
+ATOM     27  C22 NOV A   1      61.072  -9.329  29.016  0.00  0.00    +0.000 C 
+ATOM     28  C24 NOV A   1      60.270  -9.969  27.903  0.00  0.00    +0.000 C 
+ATOM     29  C25 NOV A   1      62.333 -10.065  29.345  0.00  0.00    +0.000 C 
+ENDBRANCH  25  26
+ENDBRANCH  19  25
+ENDBRANCH  15  17
+ENDBRANCH   6  13
+BRANCH   7  30
+ATOM     30  O9  NOV A   1      57.862 -11.748  31.521  0.00  0.00    +0.000 OA
+ATOM     31  H   NOV A   1      57.810 -11.866  30.593  0.00  0.00    +0.000 HD
+ENDBRANCH   7  30
+BRANCH   2  32
+ATOM     32  O8  NOV A   1      63.709 -14.198  30.172  0.00  0.00    +0.000 OA
+BRANCH  32  39
+ATOM     33  O7  NOV A   1      65.059 -15.289  28.636  0.00  0.00    +0.000 OA
+ATOM     34  C23 NOV A   1      66.150 -15.659  30.794  0.00  0.00    +0.000 C 
+ATOM     35  C26 NOV A   1      67.255 -16.070  28.508  0.00  0.00    +0.000 C 
+ATOM     36  C27 NOV A   1      66.827 -13.711  29.323  0.00  0.00    +0.000 C 
+ATOM     37  C28 NOV A   1      65.795 -12.634  29.632  0.00  0.00    +0.000 C 
+ATOM     38  C29 NOV A   1      64.650 -12.844  28.651  0.00  0.00    +0.000 C 
+ATOM     39  C30 NOV A   1      64.088 -14.249  28.820  0.00  0.00    +0.000 C 
+ATOM     40  C31 NOV A   1      66.291 -15.170  29.333  0.00  0.00    +0.000 C 
+BRANCH  36  42
+ATOM     41  C1  NOV A   1      69.188 -13.393  29.365  0.00  0.00    +0.000 C 
+ATOM     42  O1  NOV A   1      67.989 -13.525  30.142  0.00  0.00    +0.000 OA
+ENDBRANCH  36  42
+BRANCH  38  43
+ATOM     43  O6  NOV A   1      65.098 -12.478  27.353  0.00  0.00    +0.000 OA
+ATOM     44  H   NOV A   1      65.850 -13.037  27.101  0.00  0.00    +0.000 HD
+ENDBRANCH  38  43
+BRANCH  37  45
+ATOM     45  O5  NOV A   1      66.345 -11.323  29.312  0.00  0.00    +0.000 OA
+BRANCH  45  48
+ATOM     46  N1  NOV A   1      67.583 -10.024  30.562  0.00  0.00    +0.000 N 
+ATOM     47  O4  NOV A   1      65.393 -10.001  30.794  0.00  0.00    +0.000 OA
+ATOM     48  C12 NOV A   1      66.375 -10.412  30.249  0.00  0.00    +0.000 C 
+ATOM     49  H   NOV A   1      67.716  -9.340  31.258  0.00  0.00    +0.000 HD
+ATOM     50  H   NOV A   1      68.361 -10.416  30.103  0.00  0.00    +0.000 HD
+ENDBRANCH  45  48
+ENDBRANCH  37  45
+ENDBRANCH  32  39
+ENDBRANCH   2  32
+TORSDOF 12
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -6.896      2.280      3.868
+REMARK INTER + INTRA:         -13.514
+REMARK INTER:                 -11.314
+REMARK INTRA:                  -2.199
+REMARK UNBOUND:                -2.385
+REMARK  Name = novobiocin_ref.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_3
+REMARK    2  A    between atoms: O1_3  and  C27_40
+REMARK    3  A    between atoms: C2_4  and  C4_9
+REMARK    4  A    between atoms: N2_5  and  C7_15
+REMARK    5  A    between atoms: C3_7  and  O8_18
+REMARK    6  A    between atoms: O3_8  and  C17_30
+REMARK    7  A    between atoms: O5_12  and  C12_25
+REMARK    8  A    between atoms: O5_12  and  C28_41
+REMARK    9  A    between atoms: O6_14  and  C29_42
+REMARK   10  A    between atoms: C8_17  and  O9_20
+REMARK   11  A    between atoms: O8_18  and  C30_43
+REMARK   12  A    between atoms: C13_26  and  C14_27
+REMARK   13  A    between atoms: C16_29  and  C20_33
+REMARK   14  A    between atoms: C20_33  and  C21_34
+REMARK   15  A    between atoms: C22_35  and  C24_37
+REMARK   16  A    between atoms: C22_35  and  C25_38
+REMARK   17  A    between atoms: C23_36  and  C31_44
+REMARK   18  A    between atoms: C26_39  and  C31_44
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  NOV A   1      59.638  -7.105  26.447  0.00  0.00    +0.000 C 
+ATOM      2  C3  NOV A   1      61.528  -5.770  27.494  0.00  0.00    +0.000 A 
+ATOM      3  C4  NOV A   1      60.739  -6.914  27.408  0.00  0.00    +0.000 A 
+ATOM      4  C5  NOV A   1      61.033  -7.957  28.209  0.00  0.00    +0.000 A 
+ATOM      5  C6  NOV A   1      60.310 -10.093  28.870  0.00  0.00    +0.000 A 
+ATOM      6  C7  NOV A   1      61.382 -10.096  29.895  0.00  0.00    +0.000 A 
+ATOM      7  C8  NOV A   1      62.209  -9.059  30.055  0.00  0.00    +0.000 A 
+ATOM      8  C9  NOV A   1      62.056  -7.888  29.174  0.00  0.00    +0.000 A 
+ATOM      9  C10 NOV A   1      62.908  -6.766  29.231  0.00  0.00    +0.000 A 
+ATOM     10  O10 NOV A   1      60.182  -9.064  28.053  0.00  0.00    +0.000 OA
+ATOM     11  C11 NOV A   1      62.651  -5.699  28.363  0.00  0.00    +0.000 A 
+ATOM     12  O11 NOV A   1      59.552 -11.014  28.846  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  13
+ATOM     13  N2  NOV A   1      61.574 -11.320  30.647  0.00  0.00    +0.000 N 
+ATOM     14  O2  NOV A   1      61.306 -12.830  32.189  0.00  0.00    +0.000 OA
+ATOM     15  C13 NOV A   1      60.960 -11.761  31.756  0.00  0.00    +0.000 C 
+ATOM     16  H   NOV A   1      62.264 -11.923  30.287  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C14 NOV A   1      59.934 -11.021  32.483  0.00  0.00    +0.000 A 
+ATOM     18  C15 NOV A   1      60.129  -9.684  32.884  0.00  0.00    +0.000 A 
+ATOM     19  C16 NOV A   1      59.118  -9.065  33.637  0.00  0.00    +0.000 A 
+ATOM     20  C17 NOV A   1      57.948  -9.761  33.932  0.00  0.00    +0.000 A 
+ATOM     21  C18 NOV A   1      57.753 -11.099  33.533  0.00  0.00    +0.000 A 
+ATOM     22  C19 NOV A   1      58.774 -11.730  32.808  0.00  0.00    +0.000 A 
+BRANCH  20  23
+ATOM     23  O3  NOV A   1      56.956  -9.143  34.648  0.00  0.00    +0.000 OA
+ATOM     24  H   NOV A   1      57.163  -8.425  35.212  0.00  0.00    +0.000 HD
+ENDBRANCH  20  23
+BRANCH  19  25
+ATOM     25  C20 NOV A   1      59.223  -7.621  34.055  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C21 NOV A   1      60.152  -6.762  33.218  0.00  0.00    +0.000 C 
+ATOM     27  C22 NOV A   1      60.743  -5.601  33.565  0.00  0.00    +0.000 C 
+ATOM     28  C24 NOV A   1      61.673  -4.855  32.630  0.00  0.00    +0.000 C 
+ATOM     29  C25 NOV A   1      60.543  -4.917  34.881  0.00  0.00    +0.000 C 
+ENDBRANCH  25  26
+ENDBRANCH  19  25
+ENDBRANCH  15  17
+ENDBRANCH   6  13
+BRANCH   7  30
+ATOM     30  O9  NOV A   1      63.162  -9.085  31.007  0.00  0.00    +0.000 OA
+ATOM     31  H   NOV A   1      63.689  -9.851  31.120  0.00  0.00    +0.000 HD
+ENDBRANCH   7  30
+BRANCH   2  32
+ATOM     32  O8  NOV A   1      61.148  -4.819  26.563  0.00  0.00    +0.000 OA
+BRANCH  32  39
+ATOM     33  O7  NOV A   1      60.973  -2.575  26.012  0.00  0.00    +0.000 OA
+ATOM     34  C23 NOV A   1      59.177  -3.664  24.758  0.00  0.00    +0.000 C 
+ATOM     35  C26 NOV A   1      60.027  -1.277  24.318  0.00  0.00    +0.000 C 
+ATOM     36  C27 NOV A   1      61.443  -3.280  23.695  0.00  0.00    +0.000 C 
+ATOM     37  C28 NOV A   1      62.288  -4.450  24.186  0.00  0.00    +0.000 C 
+ATOM     38  C29 NOV A   1      62.935  -3.995  25.485  0.00  0.00    +0.000 C 
+ATOM     39  C30 NOV A   1      61.853  -3.605  26.483  0.00  0.00    +0.000 C 
+ATOM     40  C31 NOV A   1      60.410  -2.730  24.717  0.00  0.00    +0.000 C 
+BRANCH  36  42
+ATOM     41  C1  NOV A   1      61.279  -2.667  21.399  0.00  0.00    +0.000 C 
+ATOM     42  O1  NOV A   1      60.872  -3.592  22.418  0.00  0.00    +0.000 OA
+ENDBRANCH  36  42
+BRANCH  38  43
+ATOM     43  O6  NOV A   1      63.916  -3.014  25.180  0.00  0.00    +0.000 OA
+ATOM     44  H   NOV A   1      64.502  -3.348  24.483  0.00  0.00    +0.000 HD
+ENDBRANCH  38  43
+BRANCH  37  45
+ATOM     45  O5  NOV A   1      63.391  -4.678  23.261  0.00  0.00    +0.000 OA
+BRANCH  45  48
+ATOM     46  N1  NOV A   1      62.849  -5.844  21.492  0.00  0.00    +0.000 N 
+ATOM     47  O4  NOV A   1      64.006  -6.787  23.111  0.00  0.00    +0.000 OA
+ATOM     48  C12 NOV A   1      63.464  -5.829  22.646  0.00  0.00    +0.000 C 
+ATOM     49  H   NOV A   1      62.843  -6.664  20.948  0.00  0.00    +0.000 HD
+ATOM     50  H   NOV A   1      62.392  -5.035  21.167  0.00  0.00    +0.000 HD
+ENDBRANCH  45  48
+ENDBRANCH  37  45
+ENDBRANCH  32  39
+ENDBRANCH   2  32
+TORSDOF 12
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -6.842      2.771      4.924
+REMARK INTER + INTRA:         -13.426
+REMARK INTER:                 -10.989
+REMARK INTRA:                  -2.437
+REMARK UNBOUND:                -2.385
+REMARK  Name = novobiocin_ref.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_3
+REMARK    2  A    between atoms: O1_3  and  C27_40
+REMARK    3  A    between atoms: C2_4  and  C4_9
+REMARK    4  A    between atoms: N2_5  and  C7_15
+REMARK    5  A    between atoms: C3_7  and  O8_18
+REMARK    6  A    between atoms: O3_8  and  C17_30
+REMARK    7  A    between atoms: O5_12  and  C12_25
+REMARK    8  A    between atoms: O5_12  and  C28_41
+REMARK    9  A    between atoms: O6_14  and  C29_42
+REMARK   10  A    between atoms: C8_17  and  O9_20
+REMARK   11  A    between atoms: O8_18  and  C30_43
+REMARK   12  A    between atoms: C13_26  and  C14_27
+REMARK   13  A    between atoms: C16_29  and  C20_33
+REMARK   14  A    between atoms: C20_33  and  C21_34
+REMARK   15  A    between atoms: C22_35  and  C24_37
+REMARK   16  A    between atoms: C22_35  and  C25_38
+REMARK   17  A    between atoms: C23_36  and  C31_44
+REMARK   18  A    between atoms: C26_39  and  C31_44
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  NOV A   1      61.606  -6.465  25.511  0.00  0.00    +0.000 C 
+ATOM      2  C3  NOV A   1      62.298  -4.637  27.132  0.00  0.00    +0.000 A 
+ATOM      3  C4  NOV A   1      61.900  -5.943  26.857  0.00  0.00    +0.000 A 
+ATOM      4  C5  NOV A   1      61.837  -6.822  27.876  0.00  0.00    +0.000 A 
+ATOM      5  C6  NOV A   1      61.218  -9.017  28.441  0.00  0.00    +0.000 A 
+ATOM      6  C7  NOV A   1      61.484  -8.685  29.862  0.00  0.00    +0.000 A 
+ATOM      7  C8  NOV A   1      61.886  -7.468  30.239  0.00  0.00    +0.000 A 
+ATOM      8  C9  NOV A   1      62.087  -6.436  29.207  0.00  0.00    +0.000 A 
+ATOM      9  C10 NOV A   1      62.555  -5.139  29.498  0.00  0.00    +0.000 A 
+ATOM     10  O10 NOV A   1      61.424  -8.112  27.502  0.00  0.00    +0.000 OA
+ATOM     11  C11 NOV A   1      62.682  -4.232  28.439  0.00  0.00    +0.000 A 
+ATOM     12  O11 NOV A   1      60.773 -10.095  28.189  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  13
+ATOM     13  N2  NOV A   1      61.397  -9.768  30.821  0.00  0.00    +0.000 N 
+ATOM     14  O2  NOV A   1      61.979 -11.502  31.998  0.00  0.00    +0.000 OA
+ATOM     15  C13 NOV A   1      62.300 -10.702  31.156  0.00  0.00    +0.000 C 
+ATOM     16  H   NOV A   1      60.541  -9.827  31.303  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C14 NOV A   1      63.620 -10.833  30.549  0.00  0.00    +0.000 A 
+ATOM     18  C15 NOV A   1      63.796 -11.411  29.275  0.00  0.00    +0.000 A 
+ATOM     19  C16 NOV A   1      65.107 -11.558  28.791  0.00  0.00    +0.000 A 
+ATOM     20  C17 NOV A   1      66.182 -11.102  29.550  0.00  0.00    +0.000 A 
+ATOM     21  C18 NOV A   1      66.007 -10.526  30.824  0.00  0.00    +0.000 A 
+ATOM     22  C19 NOV A   1      64.702 -10.406  31.324  0.00  0.00    +0.000 A 
+BRANCH  20  23
+ATOM     23  O3  NOV A   1      67.456 -11.228  29.061  0.00  0.00    +0.000 OA
+ATOM     24  H   NOV A   1      67.696 -10.801  28.262  0.00  0.00    +0.000 HD
+ENDBRANCH  20  23
+BRANCH  19  25
+ATOM     25  C20 NOV A   1      65.377 -12.113  27.416  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C21 NOV A   1      64.187 -12.145  26.476  0.00  0.00    +0.000 C 
+ATOM     27  C22 NOV A   1      63.621 -11.110  25.822  0.00  0.00    +0.000 C 
+ATOM     28  C24 NOV A   1      62.441 -11.290  24.889  0.00  0.00    +0.000 C 
+ATOM     29  C25 NOV A   1      64.072  -9.689  25.949  0.00  0.00    +0.000 C 
+ENDBRANCH  25  26
+ENDBRANCH  19  25
+ENDBRANCH  15  17
+ENDBRANCH   6  13
+BRANCH   7  30
+ATOM     30  O9  NOV A   1      62.102  -7.193  31.541  0.00  0.00    +0.000 OA
+ATOM     31  H   NOV A   1      62.956  -6.940  31.830  0.00  0.00    +0.000 HD
+ENDBRANCH   7  30
+BRANCH   2  32
+ATOM     32  O8  NOV A   1      62.381  -3.876  25.979  0.00  0.00    +0.000 OA
+BRANCH  32  39
+ATOM     33  O7  NOV A   1      60.995  -2.067  25.554  0.00  0.00    +0.000 OA
+ATOM     34  C23 NOV A   1      60.219  -3.816  24.029  0.00  0.00    +0.000 C 
+ATOM     35  C26 NOV A   1      59.586  -1.330  23.845  0.00  0.00    +0.000 C 
+ATOM     36  C27 NOV A   1      61.927  -2.105  23.270  0.00  0.00    +0.000 C 
+ATOM     37  C28 NOV A   1      63.254  -2.650  23.783  0.00  0.00    +0.000 C 
+ATOM     38  C29 NOV A   1      63.445  -2.071  25.177  0.00  0.00    +0.000 C 
+ATOM     39  C30 NOV A   1      62.273  -2.477  26.061  0.00  0.00    +0.000 C 
+ATOM     40  C31 NOV A   1      60.702  -2.355  24.195  0.00  0.00    +0.000 C 
+BRANCH  36  42
+ATOM     41  C1  NOV A   1      61.744  -1.430  20.993  0.00  0.00    +0.000 C 
+ATOM     42  O1  NOV A   1      61.715  -2.527  21.917  0.00  0.00    +0.000 OA
+ENDBRANCH  36  42
+BRANCH  38  43
+ATOM     43  O6  NOV A   1      63.710  -0.681  25.054  0.00  0.00    +0.000 OA
+ATOM     44  H   NOV A   1      63.704  -0.432  24.116  0.00  0.00    +0.000 HD
+ENDBRANCH  38  43
+BRANCH  37  45
+ATOM     45  O5  NOV A   1      64.346  -2.109  22.984  0.00  0.00    +0.000 OA
+BRANCH  45  48
+ATOM     46  N1  NOV A   1      65.751  -2.314  21.320  0.00  0.00    +0.000 N 
+ATOM     47  O4  NOV A   1      64.965  -4.114  22.316  0.00  0.00    +0.000 OA
+ATOM     48  C12 NOV A   1      65.027  -2.924  22.222  0.00  0.00    +0.000 C 
+ATOM     49  H   NOV A   1      66.302  -2.838  20.694  0.00  0.00    +0.000 HD
+ATOM     50  H   NOV A   1      65.744  -1.331  21.266  0.00  0.00    +0.000 HD
+ENDBRANCH  45  48
+ENDBRANCH  37  45
+ENDBRANCH  32  39
+ENDBRANCH   2  32
+TORSDOF 12
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -6.704      1.635      2.747
+REMARK INTER + INTRA:         -13.203
+REMARK INTER:                 -11.411
+REMARK INTRA:                  -1.792
+REMARK UNBOUND:                -2.385
+REMARK  Name = novobiocin_ref.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_3
+REMARK    2  A    between atoms: O1_3  and  C27_40
+REMARK    3  A    between atoms: C2_4  and  C4_9
+REMARK    4  A    between atoms: N2_5  and  C7_15
+REMARK    5  A    between atoms: C3_7  and  O8_18
+REMARK    6  A    between atoms: O3_8  and  C17_30
+REMARK    7  A    between atoms: O5_12  and  C12_25
+REMARK    8  A    between atoms: O5_12  and  C28_41
+REMARK    9  A    between atoms: O6_14  and  C29_42
+REMARK   10  A    between atoms: C8_17  and  O9_20
+REMARK   11  A    between atoms: O8_18  and  C30_43
+REMARK   12  A    between atoms: C13_26  and  C14_27
+REMARK   13  A    between atoms: C16_29  and  C20_33
+REMARK   14  A    between atoms: C20_33  and  C21_34
+REMARK   15  A    between atoms: C22_35  and  C24_37
+REMARK   16  A    between atoms: C22_35  and  C25_38
+REMARK   17  A    between atoms: C23_36  and  C31_44
+REMARK   18  A    between atoms: C26_39  and  C31_44
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  NOV A   1      61.170  -7.225  23.988  0.00  0.00    +0.000 C 
+ATOM      2  C3  NOV A   1      59.513  -5.563  24.958  0.00  0.00    +0.000 A 
+ATOM      3  C4  NOV A   1      60.014  -6.855  24.824  0.00  0.00    +0.000 A 
+ATOM      4  C5  NOV A   1      59.455  -7.839  25.556  0.00  0.00    +0.000 A 
+ATOM      5  C6  NOV A   1      59.476 -10.158  25.932  0.00  0.00    +0.000 A 
+ATOM      6  C7  NOV A   1      58.312  -9.983  26.835  0.00  0.00    +0.000 A 
+ATOM      7  C8  NOV A   1      57.760  -8.785  27.051  0.00  0.00    +0.000 A 
+ATOM      8  C9  NOV A   1      58.339  -7.606  26.383  0.00  0.00    +0.000 A 
+ATOM      9  C10 NOV A   1      57.859  -6.297  26.583  0.00  0.00    +0.000 A 
+ATOM     10  O10 NOV A   1      60.025  -9.106  25.352  0.00  0.00    +0.000 OA
+ATOM     11  C11 NOV A   1      58.471  -5.256  25.874  0.00  0.00    +0.000 A 
+ATOM     12  O11 NOV A   1      59.858 -11.267  25.715  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  13
+ATOM     13  N2  NOV A   1      57.862 -11.149  27.567  0.00  0.00    +0.000 N 
+ATOM     14  O2  NOV A   1      57.758 -12.669  29.120  0.00  0.00    +0.000 OA
+ATOM     15  C13 NOV A   1      58.316 -11.682  28.712  0.00  0.00    +0.000 C 
+ATOM     16  H   NOV A   1      57.104 -11.626  27.159  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C14 NOV A   1      59.451 -11.167  29.471  0.00  0.00    +0.000 A 
+ATOM     18  C15 NOV A   1      59.316 -10.080  30.358  0.00  0.00    +0.000 A 
+ATOM     19  C16 NOV A   1      60.471  -9.604  31.001  0.00  0.00    +0.000 A 
+ATOM     20  C17 NOV A   1      61.695 -10.230  30.780  0.00  0.00    +0.000 A 
+ATOM     21  C18 NOV A   1      61.831 -11.316  29.892  0.00  0.00    +0.000 A 
+ATOM     22  C19 NOV A   1      60.685 -11.773  29.225  0.00  0.00    +0.000 A 
+BRANCH  20  23
+ATOM     23  O3  NOV A   1      62.814  -9.775  31.428  0.00  0.00    +0.000 OA
+ATOM     24  H   NOV A   1      62.945  -8.855  31.547  0.00  0.00    +0.000 HD
+ENDBRANCH  20  23
+BRANCH  19  25
+ATOM     25  C20 NOV A   1      60.404  -8.484  32.008  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C21 NOV A   1      59.670  -8.804  33.297  0.00  0.00    +0.000 C 
+ATOM     27  C22 NOV A   1      59.196  -7.940  34.216  0.00  0.00    +0.000 C 
+ATOM     28  C24 NOV A   1      58.457  -8.400  35.455  0.00  0.00    +0.000 C 
+ATOM     29  C25 NOV A   1      59.352  -6.454  34.130  0.00  0.00    +0.000 C 
+ENDBRANCH  25  26
+ENDBRANCH  19  25
+ENDBRANCH  15  17
+ENDBRANCH   6  13
+BRANCH   7  30
+ATOM     30  O9  NOV A   1      56.691  -8.662  27.863  0.00  0.00    +0.000 OA
+ATOM     31  H   NOV A   1      55.827  -8.767  27.518  0.00  0.00    +0.000 HD
+ENDBRANCH   7  30
+BRANCH   2  32
+ATOM     32  O8  NOV A   1      60.233  -4.656  24.199  0.00  0.00    +0.000 OA
+BRANCH  32  39
+ATOM     33  O7  NOV A   1      60.737  -2.555  23.361  0.00  0.00    +0.000 OA
+ATOM     34  C23 NOV A   1      62.611  -3.965  22.669  0.00  0.00    +0.000 C 
+ATOM     35  C26 NOV A   1      62.620  -1.394  22.616  0.00  0.00    +0.000 C 
+ATOM     36  C27 NOV A   1      62.724  -2.634  24.820  0.00  0.00    +0.000 C 
+ATOM     37  C28 NOV A   1      61.988  -3.501  25.835  0.00  0.00    +0.000 C 
+ATOM     38  C29 NOV A   1      60.526  -3.084  25.773  0.00  0.00    +0.000 C 
+ATOM     39  C30 NOV A   1      60.001  -3.279  24.357  0.00  0.00    +0.000 C 
+ATOM     40  C31 NOV A   1      62.152  -2.668  23.376  0.00  0.00    +0.000 C 
+BRANCH  36  42
+ATOM     41  C1  NOV A   1      64.881  -1.749  25.308  0.00  0.00    +0.000 C 
+ATOM     42  O1  NOV A   1      64.132  -2.896  24.883  0.00  0.00    +0.000 OA
+ENDBRANCH  36  42
+BRANCH  38  43
+ATOM     43  O6  NOV A   1      60.405  -1.785  26.334  0.00  0.00    +0.000 OA
+ATOM     44  H   NOV A   1      60.138  -1.858  27.264  0.00  0.00    +0.000 HD
+ENDBRANCH  38  43
+BRANCH  37  45
+ATOM     45  O5  NOV A   1      62.433  -3.163  27.181  0.00  0.00    +0.000 OA
+BRANCH  45  48
+ATOM     46  N1  NOV A   1      63.206  -3.719  29.150  0.00  0.00    +0.000 N 
+ATOM     47  O4  NOV A   1      63.076  -5.235  27.558  0.00  0.00    +0.000 OA
+ATOM     48  C12 NOV A   1      62.903  -4.117  27.942  0.00  0.00    +0.000 C 
+ATOM     49  H   NOV A   1      63.569  -4.360  29.803  0.00  0.00    +0.000 HD
+ATOM     50  H   NOV A   1      63.071  -2.778  29.407  0.00  0.00    +0.000 HD
+ENDBRANCH  45  48
+ENDBRANCH  37  45
+ENDBRANCH  32  39
+ENDBRANCH   2  32
+TORSDOF 12
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:    -6.686      2.510      4.019
+REMARK INTER + INTRA:         -13.175
+REMARK INTER:                 -10.868
+REMARK INTRA:                  -2.306
+REMARK UNBOUND:                -2.385
+REMARK  Name = novobiocin_ref.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_3
+REMARK    2  A    between atoms: O1_3  and  C27_40
+REMARK    3  A    between atoms: C2_4  and  C4_9
+REMARK    4  A    between atoms: N2_5  and  C7_15
+REMARK    5  A    between atoms: C3_7  and  O8_18
+REMARK    6  A    between atoms: O3_8  and  C17_30
+REMARK    7  A    between atoms: O5_12  and  C12_25
+REMARK    8  A    between atoms: O5_12  and  C28_41
+REMARK    9  A    between atoms: O6_14  and  C29_42
+REMARK   10  A    between atoms: C8_17  and  O9_20
+REMARK   11  A    between atoms: O8_18  and  C30_43
+REMARK   12  A    between atoms: C13_26  and  C14_27
+REMARK   13  A    between atoms: C16_29  and  C20_33
+REMARK   14  A    between atoms: C20_33  and  C21_34
+REMARK   15  A    between atoms: C22_35  and  C24_37
+REMARK   16  A    between atoms: C22_35  and  C25_38
+REMARK   17  A    between atoms: C23_36  and  C31_44
+REMARK   18  A    between atoms: C26_39  and  C31_44
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  NOV A   1      62.741  -7.657  28.373  0.00  0.00    +0.000 C 
+ATOM      2  C3  NOV A   1      60.886  -8.756  27.032  0.00  0.00    +0.000 A 
+ATOM      3  C4  NOV A   1      61.774  -8.736  28.104  0.00  0.00    +0.000 A 
+ATOM      4  C5  NOV A   1      61.711  -9.734  29.008  0.00  0.00    +0.000 A 
+ATOM      5  C6  NOV A   1      62.745 -10.613  30.925  0.00  0.00    +0.000 A 
+ATOM      6  C7  NOV A   1      61.836 -11.781  30.833  0.00  0.00    +0.000 A 
+ATOM      7  C8  NOV A   1      60.933 -11.898  29.854  0.00  0.00    +0.000 A 
+ATOM      8  C9  NOV A   1      60.833 -10.823  28.851  0.00  0.00    +0.000 A 
+ATOM      9  C10 NOV A   1      59.883 -10.830  27.811  0.00  0.00    +0.000 A 
+ATOM     10  O10 NOV A   1      62.645  -9.628  30.052  0.00  0.00    +0.000 OA
+ATOM     11  C11 NOV A   1      59.897  -9.769  26.898  0.00  0.00    +0.000 A 
+ATOM     12  O11 NOV A   1      63.587 -10.621  31.771  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  13
+ATOM     13  N2  NOV A   1      61.885 -12.744  31.914  0.00  0.00    +0.000 N 
+ATOM     14  O2  NOV A   1      61.387 -13.743  33.781  0.00  0.00    +0.000 OA
+ATOM     15  C13 NOV A   1      61.147 -12.832  33.031  0.00  0.00    +0.000 C 
+ATOM     16  H   NOV A   1      62.569 -13.445  31.813  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C14 NOV A   1      60.103 -11.885  33.409  0.00  0.00    +0.000 A 
+ATOM     18  C15 NOV A   1      60.376 -10.766  34.222  0.00  0.00    +0.000 A 
+ATOM     19  C16 NOV A   1      59.302  -9.940  34.594  0.00  0.00    +0.000 A 
+ATOM     20  C17 NOV A   1      58.020 -10.218  34.127  0.00  0.00    +0.000 A 
+ATOM     21  C18 NOV A   1      57.745 -11.337  33.315  0.00  0.00    +0.000 A 
+ATOM     22  C19 NOV A   1      58.810 -12.182  32.968  0.00  0.00    +0.000 A 
+BRANCH  20  23
+ATOM     23  O3  NOV A   1      56.980  -9.395  34.474  0.00  0.00    +0.000 OA
+ATOM     24  H   NOV A   1      56.658  -9.393  35.354  0.00  0.00    +0.000 HD
+ENDBRANCH  20  23
+BRANCH  19  25
+ATOM     25  C20 NOV A   1      59.518  -8.693  35.412  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C21 NOV A   1      59.415  -7.384  34.653  0.00  0.00    +0.000 C 
+ATOM     27  C22 NOV A   1      59.635  -6.138  35.117  0.00  0.00    +0.000 C 
+ATOM     28  C24 NOV A   1      59.518  -4.912  34.236  0.00  0.00    +0.000 C 
+ATOM     29  C25 NOV A   1      60.000  -5.823  36.534  0.00  0.00    +0.000 C 
+ENDBRANCH  25  26
+ENDBRANCH  19  25
+ENDBRANCH  15  17
+ENDBRANCH   6  13
+BRANCH   7  30
+ATOM     30  O9  NOV A   1      60.133 -12.980  29.789  0.00  0.00    +0.000 OA
+ATOM     31  H   NOV A   1      59.625 -13.232  30.534  0.00  0.00    +0.000 HD
+ENDBRANCH   7  30
+BRANCH   2  32
+ATOM     32  O8  NOV A   1      61.026  -7.634  26.233  0.00  0.00    +0.000 OA
+BRANCH  32  39
+ATOM     33  O7  NOV A   1      59.863  -7.092  24.303  0.00  0.00    +0.000 OA
+ATOM     34  C23 NOV A   1      62.172  -7.421  23.565  0.00  0.00    +0.000 C 
+ATOM     35  C26 NOV A   1      60.338  -6.285  22.165  0.00  0.00    +0.000 C 
+ATOM     36  C27 NOV A   1      61.329  -5.112  24.177  0.00  0.00    +0.000 C 
+ATOM     37  C28 NOV A   1      61.450  -5.061  25.696  0.00  0.00    +0.000 C 
+ATOM     38  C29 NOV A   1      60.129  -5.578  26.247  0.00  0.00    +0.000 C 
+ATOM     39  C30 NOV A   1      59.881  -6.990  25.734  0.00  0.00    +0.000 C 
+ATOM     40  C31 NOV A   1      60.933  -6.494  23.587  0.00  0.00    +0.000 C 
+BRANCH  36  42
+ATOM     41  C1  NOV A   1      62.208  -3.373  22.807  0.00  0.00    +0.000 C 
+ATOM     42  O1  NOV A   1      62.501  -4.549  23.575  0.00  0.00    +0.000 OA
+ENDBRANCH  36  42
+BRANCH  38  43
+ATOM     43  O6  NOV A   1      59.123  -4.609  25.986  0.00  0.00    +0.000 OA
+ATOM     44  H   NOV A   1      59.392  -4.060  25.233  0.00  0.00    +0.000 HD
+ENDBRANCH  38  43
+BRANCH  37  45
+ATOM     45  O5  NOV A   1      61.538  -3.674  26.133  0.00  0.00    +0.000 OA
+BRANCH  45  48
+ATOM     46  N1  NOV A   1      63.593  -2.927  26.091  0.00  0.00    +0.000 N 
+ATOM     47  O4  NOV A   1      62.620  -3.341  28.022  0.00  0.00    +0.000 OA
+ATOM     48  C12 NOV A   1      62.582  -3.303  26.828  0.00  0.00    +0.000 C 
+ATOM     49  H   NOV A   1      64.429  -2.629  26.517  0.00  0.00    +0.000 HD
+ATOM     50  H   NOV A   1      63.520  -2.942  25.109  0.00  0.00    +0.000 HD
+ENDBRANCH  45  48
+ENDBRANCH  37  45
+ENDBRANCH  32  39
+ENDBRANCH   2  32
+TORSDOF 12
+ENDMDL
